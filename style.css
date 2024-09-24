@@ -1,0 +1,37 @@
+body{
+    background-image: linear-gradient(rgb(213, 200, 200), rgba(0, 0, 255, 0.134));
+    font-family: Arial, Helvetica, sans-serif;
+    background-attachment: fixed;
+}
+h1{
+    border-radius: 100px;
+    box-shadow: 1px 1px 1px 1px black;
+    text-shadow: 1px 1px 1px rgb(240, 246, 246);
+}
+p{
+    margin: 7px;
+    padding: 10px;
+    text-align: center;
+    text-align: justify;
+    
+}
+img{
+ width: 200px;
+ border-radius: 500px;
+ box-shadow: 4px 4px 4px 4px rgb(67, 63, 63);
+ 
+}
+.link{
+    color: red;
+}
+footer{
+    color: rgb(162, 150, 150);
+    border-radius: 500px;
+    box-shadow: 1px 1px 1px 1px black;
+    margin: 10px;
+    padding: 10px 10px;
+    text-align: center;
+    width: 300px;margin: auto;
+
+    
+}
